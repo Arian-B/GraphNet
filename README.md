@@ -1,8 +1,8 @@
-# DSA Project: Social Network using Graph
+# DSA Project: GraphNet
 
 ## Overview
 
-Welcome to the DSA Project: Social Network using Graph! This project is designed to meet the demand for a dynamic and scalable social network graph system, akin to Instagram. Our goal is to provide users with a platform to effortlessly establish and maintain connections while addressing the shortcomings of existing systems, such as the lack of real-time capabilities and inefficient expansion when new users join the network.
+Welcome to the DSA Project: GraphNet. This project is designed to meet the demand for a dynamic and scalable social network graph system, akin to Instagram. Our goal is to provide users with a platform to effortlessly establish and maintain connections while addressing the shortcomings of existing systems, such as the lack of real-time capabilities and inefficient expansion when new users join the network.
 
 ## Features
 
@@ -26,10 +26,13 @@ cd social-media-network
 ```
 
 - To compile
+
   ```
   gcc `pkg-config --cflags gtk+-3.0` -o gui gui.c `pkg-config --libs gtk+-3.0`
   ```
+
 - To run
+
   ```
   ./gui
   ```
