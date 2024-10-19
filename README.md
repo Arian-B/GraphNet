@@ -2,7 +2,7 @@
 
 ## Description
 
-A brief description of your project.
+DSA Project: GraphNet. This project aims to create a scalable and dynamic social network graph system, inspired by platforms like Instagram. Our goal is to offer users a seamless way to build and manage connections, while overcoming absence of real-time interactions and inefficiencies in scaling as the user base grows.
 
 ## Features
 
